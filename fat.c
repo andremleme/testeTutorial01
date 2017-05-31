@@ -6,5 +6,7 @@ int main(){
     //int nr=0;
     int nr=stoi(wnr,nr);
 
-    printf("%d\n",strlen("234"));
+    printf("PROGRAMA EM C\n");
+	printf("%d\n",strlen("234"));
+
 }
